@@ -9,7 +9,7 @@
   />
 
     <agent
-    id="teste"
+    id="05.1"
     text="Os policiais vasculharam a floresta, passaram horas analisando o rio que corta a vila, e até verificaram os arredores da cidade. Nada fora encontrado, nenhuma pista que indicasse o paradeiro das crianças.
 O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o desaparecimento desconcertava até os mais experientes investigadores."
     color="white"
@@ -18,7 +18,7 @@ O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o
     font-size="20"
   />
  <agent
-    id="next_page_text"
+    id="next_page_text5"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
