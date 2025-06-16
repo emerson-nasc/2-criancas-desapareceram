@@ -19,12 +19,12 @@ A polícia foi acionada imediatamente, mas não encontraram nenhum sinal, nem pe
     font-size="20"
   />
 
-  <agent
+ <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
     x="640"
-    on_click="goToPage('middle03')"
+    on_click="goToPage('middle04')"
   />
 </page>
