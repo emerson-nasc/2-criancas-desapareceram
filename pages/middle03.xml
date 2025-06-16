@@ -1,6 +1,6 @@
 <page id="middle03" bg_image="p_gina_03.png" bg_music="osts-vilo.mp3">
  <agent
-    id="teste"
+    id="03"
     text="A Investigação"
     color="red"
     x="center"
@@ -9,7 +9,7 @@
   />
 
     <agent
-    id="teste"
+    id="03.1"
     text="Os policiais vasculharam a floresta, passaram horas analisando o rio que corta a vila, e até verificaram os arredores da cidade. Nada fora encontrado, nenhuma pista que indicasse o paradeiro das crianças.
 O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o desaparecimento desconcertava até os mais experientes investigadores."
     color="white"
