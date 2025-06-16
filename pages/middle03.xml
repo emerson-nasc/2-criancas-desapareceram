@@ -1,19 +1,20 @@
-<page id="middle03" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
-  <agent
+<page id="middle03" bg_image="" bg_music="osts-vilo.mp3">
+ <agent
     id="teste"
-    text="Hello World Middle"
-    color="white"
+    text="A Investigação"
+    color="red"
     x="center"
-    y="center"
-    font-size="70"
+    y="50"
+    font-size="30"
   />
 
-  <agent
-    id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('middle04')"
+    <agent
+    id="teste"
+    text="Os policiais vasculharam a floresta, passaram horas analisando o rio que corta a vila, e até verificaram os arredores da cidade. Nada fora encontrado, nenhuma pista que indicasse o paradeiro das crianças.
+O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o desaparecimento desconcertava até os mais experientes investigadores."
+    color="white"
+    x="0"
+    y="100"
+    font-size="20"
   />
 </page>
