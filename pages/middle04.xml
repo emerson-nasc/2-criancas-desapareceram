@@ -27,7 +27,7 @@
   />
 
     <agent
-    id="teste"
+    id="04.3"
     text="- Caíram em um buraco subterrâneo ou caverna desconhecida;"
     color="white"
     x="180"
@@ -36,7 +36,7 @@
   />
 
       <agent
-    id="teste"
+    id="04.4"
     text="- Foram levados pelo rio e desapareceram no mar;"
     color="white"
     x="180"
@@ -45,7 +45,7 @@
   />
 
     <agent
-    id="teste"
+    id="04.5"
     text="- Foram sequestrados por alguém da vila;"
     color="white"
     x="180"
@@ -54,7 +54,7 @@
   />
 
     <agent
-    id="teste"
+    id="04.6"
     text="- Fugiram por causa de uma família abusiva."
     color="white"
     x="180"
@@ -63,7 +63,7 @@
   />
 
     <agent
-    id="teste"
+    id="04.7"
     text="Mas nenhuma dessas hipóteses foi confirmada. Apenas uma certeza: o mistério permanece."
     color="red"
     x="15"
@@ -71,7 +71,7 @@
     font-size="20"
   />
    <agent
-    id="next_page_text"
+    id="04.8"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
