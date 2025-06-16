@@ -19,10 +19,11 @@ O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o
   />
  <agent
     id="next_page_text5"
-    text="Proxima Pagina"
+    text="Resposta FINAL"
     animation="glitch"
     y="480"
-    x="640"
+    x="300"
+    font-size="40"
     on_click="goToPage('goToPage('ending')')"
   />
 </page>
