@@ -1,12 +1,5 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
-  <agent
-    id="teste"
-    text="Conclusão: O Que Realmente Aconteceu"
-    color="white"
-    x="150"
-    y="50"
-    font-size="30"
-  />
+
 
 
   <agent
