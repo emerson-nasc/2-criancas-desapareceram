@@ -1,6 +1,6 @@
 <page id="middle04" bg_image="p_gina_04.png" bg_music="osts-vilo.mp3">
  <agent
-    id="teste"
+    id="04"
     text="Teorias e Mistérios"
     color="black"
     x="center"
@@ -9,7 +9,7 @@
   />
 
     <agent
-    id="teste"
+    id="04.1"
     text="A vila se dividiu entre vários rumores e teorias sobre o que pode ter acontecido com Lucas e Mariana:"
     color="red"
     x="center"
