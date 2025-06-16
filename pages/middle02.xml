@@ -20,7 +20,7 @@ A polícia foi acionada imediatamente, mas não encontraram nenhum sinal, nem pe
   />
 
  <agent
-    id="next_page_text"
+    id="next_page_text2"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
