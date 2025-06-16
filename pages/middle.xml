@@ -1,11 +1,13 @@
 <page id="middle" bg_image="p_gina_01_casa.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World Middle"
-    color="white"
+    text="Numa pequena vila cercada por densas florestas e rios profundos, duas crianças desapareceram sem deixar pistas. A comunidade está em choque, e o silêncio da noite só a aumenta o sentimento de mistério e suspense.
+Quem eram essas crianças? Que segredos serão revelados nesta história? Acompanhe e descubra o que pode ter acontecido com elas.
+"
+    color="black"
     x="center"
-    y="center"
-    font-size="70"
+    y="100"
+    font-size="15"
   />
 
   <agent
