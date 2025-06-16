@@ -1,8 +1,8 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World Ending"
-    color="white"
+    text="O Mistério das Crianças Desaparecidas"
+    color="red"
     x="center"
     y="center"
     font-size="70"
