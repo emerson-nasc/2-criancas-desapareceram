@@ -17,4 +17,12 @@ O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o
     y="100"
     font-size="20"
   />
+ <agent
+    id="next_page_text"
+    text="Proxima Pagina"
+    animation="glitch"
+    y="480"
+    x="640"
+    on_click="goToPage('goToPage('middle04')')"
+  />
 </page>
