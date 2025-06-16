@@ -1,11 +1,22 @@
-<page id="middle02" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="middle02" bg_image="p_gina_02_crian_as.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World Middle"
+    text="O Desaparecimento"
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y="50"
+    font-size="30"
+  />
+
+    <agent
+    id="teste"
+    text="Lucas e Mariana eram irmãos inseparáveis. Na tarde em que desapareceram, brincavam perto da floresta, onde haviam rumores de lugares perigosos e histórias antigas sobre desaparecimentos misteriosos.
+A polícia foi acionada imediatamente, mas não encontraram nenhum sinal, nem pegadas, nem objetos deixados para trás. O mistério só aumentava à medida que as horas passavam.
+"
+    color="ghostwhite"
+    x="0"
+    y="100"
+    font-size="20"
   />
 
   <agent
