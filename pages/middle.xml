@@ -1,6 +1,6 @@
 <page id="middle" bg_image="p_gina_01_casa.png" bg_music="osts-vilo.mp3">
   <agent
-    id="02"
+    id="02.m"
     text="Numa pequena vila cercada por densas florestas e rios profundos, duas crianças desapareceram sem deixar pistas. A comunidade está em choque, e o silêncio da noite só a aumenta o sentimento de mistério e suspense.
 Quem eram essas crianças? Que segredos serão revelados nesta história? Acompanhe e descubra o que pode ter acontecido com elas.
 "
@@ -11,7 +11,7 @@ Quem eram essas crianças? Que segredos serão revelados nesta história? Acompa
   />
 
   <agent
-    id="next_page_text2"
+    id="next_page_text2.m"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
