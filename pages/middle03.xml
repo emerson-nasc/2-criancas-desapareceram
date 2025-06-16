@@ -1,0 +1,3 @@
+<page id="middle03" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página middle03" color="white" font-size="24" />
+</page>
