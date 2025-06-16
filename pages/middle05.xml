@@ -59,6 +59,6 @@
     y="330"
     x="280"
     font-size="40"
-    on_click="goToPage('goToPage('ending')')"
+    on_click="goToPage('goToPage'ending')"
   />
 </page>
