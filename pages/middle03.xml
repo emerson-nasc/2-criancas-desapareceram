@@ -1,4 +1,4 @@
-<page id="middle03" bg_image="" bg_music="osts-vilo.mp3">
+<page id="middle03" bg_image="p_gina_03.png" bg_music="osts-vilo.mp3">
  <agent
     id="teste"
     text="A Investigação"
