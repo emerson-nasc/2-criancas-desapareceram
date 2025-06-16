@@ -1,11 +1,11 @@
-<page id="middle05" bg_color="black">
+<page id="middle05" bg_image="p_gina_05_quiz.png" bg_color="black">
  <agent
     id="05.1"
     text="O que você acha que aconteceu com as crianças?"
     color="red"
     x="center"
     y="50"
-    font-size="30"
+    font-size="33"
   />
 
      <agent
@@ -56,8 +56,8 @@
     id="next_page_text5"
     text="Resposta FINAL"
     animation="glitch"
-    y="480"
-    x="300"
+    y="330"
+    x="280"
     font-size="40"
     on_click="goToPage('goToPage('ending')')"
   />
