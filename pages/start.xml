@@ -1,4 +1,4 @@
-<page id="start" bg_image="" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="p_gina_05.png" bg_music="osts-vilo.mp3">
   <agent
     id="01"
     text="O Mistério das Crianças Desaparecidas"
