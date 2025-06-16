@@ -1,19 +1,74 @@
-<page id="middle04" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
-  <agent
+<page id="middle04" bg_image="p_gina_04.png" bg_music="osts-vilo.mp3">
+ <agent
     id="teste"
-    text="Hello World Middle"
-    color="white"
+    text="Teorias e Mistérios"
+    color="black"
     x="center"
-    y="center"
-    font-size="70"
+    y="50"
+    font-size="30"
   />
 
-  <agent
-    id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('goToPage'goToPage('middle')')"
+    <agent
+    id="teste"
+    text="A vila se dividiu entre vários rumores e teorias sobre o que pode ter acontecido com Lucas e Mariana:"
+    color="red"
+    x="center"
+    y="100"
+    font-size="20"
   />
+
+    <agent
+    id="teste"
+    text="- Foram atacados por animais selvagens da floresta;"
+    color="white"
+    x="180"
+    y="190"
+    font-size="20"
+  />
+
+    <agent
+    id="teste"
+    text="- Caíram em um buraco subterrâneo ou caverna desconhecida;"
+    color="white"
+    x="180"
+    y="210"
+    font-size="20"
+  />
+
+      <agent
+    id="teste"
+    text="- Foram levados pelo rio e desapareceram no mar;"
+    color="white"
+    x="180"
+    y="230"
+    font-size="20"
+  />
+
+    <agent
+    id="teste"
+    text="- Foram sequestrados por alguém da vila;"
+    color="white"
+    x="180"
+    y="250"
+    font-size="20"
+  />
+
+    <agent
+    id="teste"
+    text="- Fugiram por causa de uma família abusiva."
+    color="white"
+    x="180"
+    y="270"
+    font-size="20"
+  />
+
+    <agent
+    id="teste"
+    text="Mas nenhuma dessas hipóteses foi confirmada. Apenas uma certeza: o mistério permanece."
+    color="red"
+    x="15"
+    y="300"
+    font-size="20"
+  />
+  
 </page>
