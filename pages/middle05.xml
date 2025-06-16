@@ -8,13 +8,48 @@
     font-size="30"
   />
 
-    <agent
-    id="05.2"
-    text="Os policiais vasculharam a floresta, passaram horas analisando o rio que corta a vila, e até verificaram os arredores da cidade. Nada fora encontrado, nenhuma pista que indicasse o paradeiro das crianças.
-O desespero aumentava entre os moradores. Foram formadas equipes de busca, mas o desaparecimento desconcertava até os mais experientes investigadores."
+     <agent
+    id="04.2"
+    text="- Foram atacados por animais selvagens da floresta;"
     color="white"
-    x="0"
-    y="100"
+    x="180"
+    y="190"
+    font-size="20"
+  />
+
+    <agent
+    id="04.3"
+    text="- Caíram em um buraco subterrâneo ou caverna desconhecida;"
+    color="white"
+    x="180"
+    y="210"
+    font-size="20"
+  />
+
+      <agent
+    id="04.4"
+    text="- Foram levados pelo rio e desapareceram no mar;"
+    color="white"
+    x="180"
+    y="230"
+    font-size="20"
+  />
+
+    <agent
+    id="04.5"
+    text="- Foram sequestrados por alguém da vila;"
+    color="white"
+    x="180"
+    y="250"
+    font-size="20"
+  />
+
+    <agent
+    id="04.6"
+    text="- Fugiram por causa de uma família abusiva."
+    color="white"
+    x="180"
+    y="270"
     font-size="20"
   />
  <agent
