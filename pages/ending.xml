@@ -1,9 +1,9 @@
-<page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="ending" bg_image="p_gina_06_final.png" bg_music="osts-vilo.mp3">
 
   <agent
     id="teste"
     text="Conclusão: O Que Realmente Aconteceu"
-    color="white"
+    color="red"
     x="150"
     y="50"
     font-size="30"
@@ -11,11 +11,14 @@
 
     <agent
     id="teste"
-    text="Conclusão: O Que Realmente Aconteceu"
-    color="white"
-    x="150"
-    y="250"
-    font-size="30"
+    text="Durante as buscas, um detalhe passou despercebido até então: pequenas pegadas que não pertenciam a nenhum animal conhecido, levando para longe do vilarejo, mergulhando nas sombras da floresta.
+Lucas e Mariana não foram vítimas da natureza selvagem nem sumiram pelo acaso do rio. Eles estavam fugindo. Fugindo de uma realidade dolorosa em casa, escondendo-se num refúgio secreto dentro da floresta.
+A verdade é delicada e silenciosa, mas a pista das pegadas é a luz que pode iluminar o caminho para a reunificação dessas vidas, entre sombras e esperanças.
+"
+    color="red"
+    x="30"
+    y="150"
+    font-size="25"
   />
 
   <agent
